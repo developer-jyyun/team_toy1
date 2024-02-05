@@ -1,9 +1,13 @@
-# HIGHFIVE WIKI
-- <a href="https://highfive-dev-4d7f4.firebaseapp.com/"> HIGHFIVE WIKI 배포 링크</a>
-- 🗓 기간: 2023.09.08 ~ 2023.09.22 (2주)
-- HIGHFIVE 직원들을 위한 위키 사이트
-
+# 팀 프로젝트 :: HIGHFIVE WIKI
+## HIGHFIVE 직원들을 위한 위키 사이트
+### <a href="https://highfive-dev-4d7f4.firebaseapp.com/"> ➡ HIGHFIVE WIKI 배포 링크</a>
+### 🗓 기간: 2023.09.08 ~ 2023.09.22 (2주)
+### ✔ 담당 파트 : 갤러리 페이지
 ![image](https://github.com/NamgungJongMin/toy1/assets/100336573/99d2dab7-e26a-4e56-8905-d53dd1eb2e04)
+
+
+  
+
 
 # 👭 참여 인원 및 구현 기능
 <table>
